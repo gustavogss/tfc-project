@@ -90,6 +90,7 @@
 - NodeJs e ExpressJs
 - Typescript
 - POO
+- TDD
 - Mocha, Chai e Sinon
 - JWT
 - Arquitetura MSC
