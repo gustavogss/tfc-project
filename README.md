@@ -84,3 +84,12 @@
 - [x] 34 - Desenvolva o endpoint /leaderboard de forma que seja possível filtrar a classificação geral dos times na tela de classificação do front-end e atualizar a tabela ao inserir a partida Flamengo 3 X 0 Napoli-SC
 
 - [x] 35 - Desenvolva o endpoint /leaderboard de forma que seja possível filtrar a classificação geral dos times na tela de classificação do front-end e atualizar a tabela ao inserir a partida Minas Brasília 1 X 0 Ferroviária
+
+## Tecnologia e ferramentas utilizadas :rocket:
+- VsCode
+- NodeJs e ExpressJs
+- Typescript
+- POO
+- Mocha, Chai e Sinon
+- JWT
+- Arquitetura MSC
