@@ -97,6 +97,6 @@
 
 ## Aplicação 
 
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4"> 
+<video width="400" height="350" controls>
+  <source src="https://github.com/gustavogss/tfc-project/blob/main/assets/aplicacao.mp4" type="video/mp4"> 
 </video>
