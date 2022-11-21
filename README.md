@@ -98,6 +98,3 @@
 ## Aplicação :runner:
 
 
-https://user-images.githubusercontent.com/20332960/202961409-1f2ecee6-1798-40b8-bebf-b34b8be748f4.mp4
-
-
