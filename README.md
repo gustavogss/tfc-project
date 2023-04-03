@@ -1,5 +1,6 @@
 # Projeto Trybe Futebol Clube!
 
+Site que mostra partidas de times de futebol e com ranking de classificação
 
 ## Tecnologia e ferramentas utilizadas :rocket:
 - VsCode
