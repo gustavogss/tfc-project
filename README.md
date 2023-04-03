@@ -12,7 +12,7 @@ Site que mostra partidas de times de futebol e com ranking de classificação
 - JWT
 - Arquitetura MSC
 
-## Aplicação :runner:
+## Aplicação 💻
 
 https://user-images.githubusercontent.com/20332960/202965758-a9837d6d-5196-4a37-8c2f-9e835c183914.mp4
 
